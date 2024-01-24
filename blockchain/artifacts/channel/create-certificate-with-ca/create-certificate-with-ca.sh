@@ -382,9 +382,9 @@ createConnectionProfile() {
 
 }
 
-removeOldCredentials
-createcertificatesForOrg1
-createCertificatesForOrg2
+# removeOldCredentials
+# createcertificatesForOrg1
+# createCertificatesForOrg2
 
 createCretificatesForOrderer
 
